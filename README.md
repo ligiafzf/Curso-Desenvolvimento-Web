@@ -1,1 +1,2 @@
-Projetos do curso de desenvolvimento web, utilizando HTML e CSS.
+Projetos do curso de desenvolvimento web - crie 6 projetos - Udemy.
+Utilizando HTML e CSS.
